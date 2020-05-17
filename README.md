@@ -1,3 +1,9 @@
+### About the fork:
+When I found this project, I think it may requires a typescript declaration, then I made one.
+
+But after I read the source codes, I found the quality is not good enough, but it's still a good material for learning how to do web recording.
+
+
 # RecordRTC.js | [Live Demo](https://www.webrtc-experiment.com/RecordRTC/)
 
 **WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording**
